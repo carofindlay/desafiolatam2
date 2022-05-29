@@ -1,0 +1,74 @@
+body{ background-color: rgb(244, 244, 223); 
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+/* inicio home*/
+.hero {
+    background-image: url(/assets/img/chusca/fondo_home.jpg);
+    background-repeat: no-repeat;
+    background-size: 1600px;
+    background-position: center;
+    height: 250px;
+    padding: 10px;
+   }
+  
+  h1 {
+    color: rgb(232, 94, 19);
+    text-align: left;
+    margin-left: 10px;
+    padding-top: 10px;
+    font-size: 50px;
+    margin: 0%;
+  }
+  
+  .h3{
+    color: black;
+    text-align: left;
+    margin-left: 10px;
+    padding-top: 10px;
+    font-size: 40px;
+    margin: 0%;
+  }
+p{
+    color: rgb(19, 19, 16);
+   }
+   .intro{
+    text-align: center;
+    background-color: rgb(236, 170, 56);
+    padding: 10px;
+}
+.fotos_productos{
+  width: 200px;
+  padding: 10px;
+  border-color: gold; border-style: groove;
+  margin: 20px;
+
+}
+.texto_llamado{
+  color: rgb(72, 55, 29); font-size: 30px;
+}
+.fondo_texto_llamado{
+  text-align: center;
+  background-color: rgb(211, 201, 53);
+  padding: 10px;
+}
+/* final home*/
+.footer{
+  background-image: url(/assets/img/chusca/fondo_footer.jpg);
+  background-repeat: no-repeat;
+  margin: 20px;
+  background-size: 1600px;
+  background-position: center;
+  height: 200px;
+  padding: 90px;
+  text-align: right;
+   
+}
+.texto_contacto{
+  color: white;
+}
+.contacto {
+  color:rgb(223, 194, 237);
+  text-align: right;
+   margin-top: 100px;
+     padding-right: 10px;
+    font-size: 40px;
+  }

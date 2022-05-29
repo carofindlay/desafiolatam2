@@ -1,0 +1,19 @@
+body{
+    font-family: 'Comfortaa', cursive;
+    background-color: gainsboro;
+}
+#Hero-Section {
+    background-color: rgb(255, 255, 255);
+    background-image: url("../img/CV/fondohojas.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+  }
+
+#fondo_portafolio {
+    background-image: url("../img/CV/fondo_portafolio.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: right;
+    text-align: center;
+  }
